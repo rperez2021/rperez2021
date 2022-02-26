@@ -2,7 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rperez2021&left_color=blue&right_color=yellow)
 
-[![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rperez2021)](https://github.com/anuraghazra/github-readme-stats)
+[![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rperez2021&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rperez2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rperez2021/rperez2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
