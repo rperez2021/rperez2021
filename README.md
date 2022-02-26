@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rperez2021&left_color=#0066cc&right_color=#ffcc00)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rperez2021&left_color=blue&right_color=yellow)
 
 <!--
 **rperez2021/rperez2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
