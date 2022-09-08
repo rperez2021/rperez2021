@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on home automation data integration project!
+- 🌱 I’m currently learning ALL THE THINGS!!! (Elixir, Dart and Go)
+- 💬 Ask me about border-town life!
+- 📫 How to reach me: robertoperez.io
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love learning new languages! Like traditional languages! Also programming languages too I guess...
+
 [![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=rperez2021&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rperez2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
